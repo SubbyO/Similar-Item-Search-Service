@@ -1,0 +1,6 @@
+flask
+fastavro
+cffi>=0.7
+python-snappy
+tqdm
+numpy
